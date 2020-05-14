@@ -1,0 +1,5 @@
+Szerver útvonala
+C:\Program Files\Java\apache-tomcat-10.0.0-M4\bin
+
+Webapp útvonala
+C:\Program Files\Java\apache-tomcat-10.0.0-M4\webapps\FirstJavaWebApp\WEB-INF

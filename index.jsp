@@ -8,6 +8,7 @@
 
 <body>
 	<h1>Ez egy igazi JSP!</h1>
+	<p>Java Servlet Page</p>
 	
 	<%
 		out.println("Ez itt az IP címed: " + request.getRemoteAddr());
